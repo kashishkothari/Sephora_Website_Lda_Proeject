@@ -17,9 +17,9 @@ Evaluate the effectiveness of LDA for class separation.
 -  Data Preprocessing:
   
 The preprocessing pipeline includes:
-Handling missing values
-Removing duplicate records
-Label encoding categorical variables
-Feature selection
-Feature scaling using StandardScaler
-Splitting data into training and testing sets
+Handling missing values.
+Removing duplicate records.
+Label encoding categorical variables.
+Feature selection.
+Feature scaling using StandardScaler.
+Splitting data into training and testing sets.
