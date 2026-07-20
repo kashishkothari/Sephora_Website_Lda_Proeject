@@ -7,20 +7,19 @@ The primary objective is to analyze product attributes and identify the linear c
 
 - Objectives:
 
-- Perform exploratory data analysis (EDA) on the Sephora dataset.
-- Clean and preprocess the data.
-- Encode categorical variables for machine learning.
-- Apply Linear Discriminant Analysis for dimensionality reduction.
-- Visualize discriminant components.
-- Evaluate the effectiveness of LDA for class separation.
+Perform exploratory data analysis (EDA) on the Sephora dataset.
+Clean and preprocess the data.
+Encode categorical variables for machine learning.
+Apply Linear Discriminant Analysis for dimensionality reduction.
+Visualize discriminant components.
+Evaluate the effectiveness of LDA for class separation.
 
 -  Data Preprocessing:
   
 The preprocessing pipeline includes:
-
-- Handling missing values
-- Removing duplicate records
-- Label encoding categorical variables
-- Feature selection
-- Feature scaling using StandardScaler
-- Splitting data into training and testing sets
+Handling missing values
+Removing duplicate records
+Label encoding categorical variables
+Feature selection
+Feature scaling using StandardScaler
+Splitting data into training and testing sets
