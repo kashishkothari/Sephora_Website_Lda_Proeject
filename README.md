@@ -15,6 +15,7 @@ The primary objective is to analyze product attributes and identify the linear c
 - Evaluate the effectiveness of LDA for class separation.
 
 -  Data Preprocessing:
+  
 The preprocessing pipeline includes:
 
 - Handling missing values
